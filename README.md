@@ -24,21 +24,7 @@ Distribui alternadamente entre os times
 Ordena cada time alfabeticamente
 
 Saída: Exibe os times formatados com jogadores em ordem alfabética
-
-📊 Exemplo de Entrada/Saída
-text
-Entrada:
-14 3
-felipe 4
-alvaro 8
-... (mais alunos)
-
-Saída:
-Time 1
-andre
-fabio
-... (jogadores ordenados)
-🚀 Tecnologias Utilizadas
+#
 Python 3: Linguagem de programação
 
 Algoritmos de Ordenação: Para classificar por habilidade e nome
