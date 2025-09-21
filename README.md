@@ -1,7 +1,7 @@
-🏆 Sistema de Formação de Times de Educação Física
-📋 Descrição do Projeto
+🏆 Sistema de Formação de Times de Educação Física #
+📋 Descrição do Projeto 
 Este programa simula o processo clássico de formação de times nas aulas de educação física, onde os alunos são selecionados alternadamente por seus níveis de habilidade, resultando em equipes balanceadas.
-
+#
 ⚙️ Funcionalidades
 Ordenação por Habilidade: Classifica os alunos do mais habilidoso para o menos habilidoso
 
